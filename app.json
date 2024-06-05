@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"MASTERPEACE-XMD",
       "required":false
 
     } ,
